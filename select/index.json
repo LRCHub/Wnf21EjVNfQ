@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Thousand Chords Wonders",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T17:19:28.380366Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thousand Chords Wonders",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_Thousand_Chords_Wonders_BaseBallBear.txt"
+    }
+  ]
+}
